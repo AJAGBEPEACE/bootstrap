@@ -1,0 +1,6 @@
+a:hover{
+    transform: translate(-20px);
+}
+.a{
+    transition: all;
+}

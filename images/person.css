@@ -1,0 +1,16 @@
+.navbar-nav :hover {
+    background-color: #FFFFFC;
+    color: black !important;
+}
+.navbar:hover{
+    background-color: #FFFFFC !important;
+    text-decoration-color: black !important;
+    color: black !important;
+}
+#main {
+    background: url(./four.jpg) no-repeat fixed;
+    height: 70%; 
+    overflow: hidden;
+    color: #FFFFFC;
+    position: absolute;
+}

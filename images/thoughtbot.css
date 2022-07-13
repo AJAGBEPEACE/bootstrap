@@ -1,0 +1,8 @@
+body{
+    background-color: #2A292C;
+}
+.bg-img{
+    background-image: url(./first.jpg);
+    height: 50vh;
+
+}

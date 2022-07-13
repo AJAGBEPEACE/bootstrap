@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EAF2F4;
+    display: grid;
+}
+#first {
+    padding-left: 6vh;
+
+    
+}
+#firstt {
+    /* padding-left: 20vh; */
+   padding: 0 32px;
+}
+/* #second {
+    padding-right: 20vh;
+    padding-left: 6vh;
+} */
+#come {
+    font-size: 12vh;
+    font-weight: bold;
+}
+#font {
+    font-size: 20px;
+}
+#h {
+    line-height: 1.1;
+}
+#start{
+    font-size: 5vh;
+    padding-left: 6vh;
+    padding: 0 32px;
+    /* padding-left: 10vh;   */
+}
+#card {
+    background-color: #D2EDF8;
+    font-size: 15px;
+    transform: translateY(-20px);
+    width: 40vh;
+    height: 20px;
+    text-align: center;
+}
+/* #num {
+    margin-bottom: 50vh;
+    transform: translateY(-20px);
+}
+#more {
+    transform: translateY(-20px);
+} */
